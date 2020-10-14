@@ -4,9 +4,14 @@
 Metadata:
   AWS::CloudFormation::Interface:
     ParameterGroups:
-      - ParameterGroup
-    ParameterLabels:
-      ParameterLabel
+      - Label:
+          default: 
+        Parameters:
+          - ParameterLabel
+      - Label:
+          default: 
+        Parameters:
+          - ParameterLabel
 
 ]]></content>
   <tabTrigger>cfn-CloudFormation-Interface</tabTrigger>
