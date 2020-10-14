@@ -1,13 +1,24 @@
 <snippet>
   <content><![CDATA[
 ---
+%YAML 1.2
+---
+# Copyright 2020 DataOne Corporation, USA
+#
+# Last Modified: 2020 October 14 by Eric D. Smith
 AWSTemplateFormatVersion: "2010-09-09"
 Description:
   String
 Metadata:
-  template metadata
+  'AWS::CloudFormation::Interface':
+    ParameterGroups:
+      - Label:
+	  default:
+	Parameters:
 Parameters:
   set of parameters
+  Type:
+  Description:
 Mappings:
   set of mappings
 Conditions:
