@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-AWS::Route53::HostedZone::Id
-]]></content>
-  <tabTrigger>cfn-ParameterType-HostedZoneId</tabTrigger>
-  <scope>source.yaml, source.cloudformation</scope>
-  </snippet>

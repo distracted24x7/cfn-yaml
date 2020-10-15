@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-AWS::EC2::AvailabilityZone::Name
-]]></content>
-  <tabTrigger>cfn-ParameterType-AZ</tabTrigger>
-  <scope>source.yaml, source.cloudformation</scope>
-  </snippet>

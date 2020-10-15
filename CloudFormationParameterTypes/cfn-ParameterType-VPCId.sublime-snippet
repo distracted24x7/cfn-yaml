@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-AWS::EC2::VPC::Id
-]]></content>
-  <tabTrigger>cfn-ParameterType-VPCId</tabTrigger>
-  <scope>source.yaml, source.cloudformation</scope>
-  </snippet>

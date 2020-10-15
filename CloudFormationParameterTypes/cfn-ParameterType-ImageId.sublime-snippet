@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-AWS::EC2::Image::Id
-]]></content>
-  <tabTrigger>cfn-ParameterType-ImageId</tabTrigger>
-  <scope>source.yaml, source.cloudformation</scope>
-  </snippet>
